@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\MyMvcApp.csproj",
+  "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\MyMvcApp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15603,118 +15603,118 @@
   "RootNamespace": "MyMvcApp",
   "Documents": [
     {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Pizzas\\Create.cshtml",
-      "TargetPath": "Views\\Pizzas\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Pizzas\\Index.cshtml",
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Pizzas\\Index.cshtml",
       "TargetPath": "Views\\Pizzas\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Menus\\Edit.cshtml",
-      "TargetPath": "Views\\Menus\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Pizzas\\Delete.cshtml",
-      "TargetPath": "Views\\Pizzas\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Pizzerias\\Edit.cshtml",
-      "TargetPath": "Views\\Pizzerias\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Pizzerias\\Create.cshtml",
-      "TargetPath": "Views\\Pizzerias\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Menus\\Delete.cshtml",
-      "TargetPath": "Views\\Menus\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Menus\\Create.cshtml",
-      "TargetPath": "Views\\Menus\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Menus\\Index.cshtml",
-      "TargetPath": "Views\\Menus\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Shared\\_FooterPartial.cshtml",
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Shared\\_FooterPartial.cshtml",
       "TargetPath": "Views\\Shared\\_FooterPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Pizzas\\Edit.cshtml",
-      "TargetPath": "Views\\Pizzas\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Pizzerias\\Index.cshtml",
-      "TargetPath": "Views\\Pizzerias\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Pizzerias\\Delete.cshtml",
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Pizzerias\\Delete.cshtml",
       "TargetPath": "Views\\Pizzerias\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Menus\\Details.cshtml",
-      "TargetPath": "Views\\Menus\\Details.cshtml",
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Pizzerias\\Edit.cshtml",
+      "TargetPath": "Views\\Pizzerias\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Pizzas\\Details.cshtml",
-      "TargetPath": "Views\\Pizzas\\Details.cshtml",
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Pizzerias\\Create.cshtml",
+      "TargetPath": "Views\\Pizzerias\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Pizzerias\\Details.cshtml",
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Menus\\Delete.cshtml",
+      "TargetPath": "Views\\Menus\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Pizzerias\\Details.cshtml",
       "TargetPath": "Views\\Pizzerias\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Menus\\Details.cshtml",
+      "TargetPath": "Views\\Menus\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Menus\\Edit.cshtml",
+      "TargetPath": "Views\\Menus\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Pizzas\\Delete.cshtml",
+      "TargetPath": "Views\\Pizzas\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Menus\\Create.cshtml",
+      "TargetPath": "Views\\Menus\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Pizzas\\Edit.cshtml",
+      "TargetPath": "Views\\Pizzas\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Pizzas\\Create.cshtml",
+      "TargetPath": "Views\\Pizzas\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Pizzerias\\Index.cshtml",
+      "TargetPath": "Views\\Pizzerias\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Pizzas\\Details.cshtml",
+      "TargetPath": "Views\\Pizzas\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\BCSF_Repo\\W9\\MyMvcApp\\PizzaApp\\Views\\Menus\\Index.cshtml",
+      "TargetPath": "Views\\Menus\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
